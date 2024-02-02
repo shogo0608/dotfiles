@@ -8,4 +8,8 @@ set hlsearch
 set incsearch
 
 " indent setting 
+set expandtab
+set tabstop=4
+set shiftwidth=4
 filetype plugin indent on
+
