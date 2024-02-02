@@ -1,0 +1,19 @@
+[user]
+    name = shogo0608
+    email = '59089752+shogo0608@users.noreply.github.com'
+[core]
+    editor = vim
+
+[init]
+    defaultBranch = main
+
+[pull]
+    ff = only
+
+[merge]
+    ff = false
+
+[alias]
+    graph = log --graph --all
+    co = checkout
+    st = status
